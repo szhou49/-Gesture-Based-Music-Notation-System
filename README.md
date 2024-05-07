@@ -9,3 +9,7 @@ This innovative system utilizes a simple graphical user interface (GUI) to inter
 * Note Creation: Quick swipes are used to add notes with stems, representing different pitches and lengths.
 * Interactive Editing: The system allows for immediate editing, such as adding or removing notes and other musical symbols.
 * Visual Indicators: Responsive visual feedback is provided for each action to ensure accuracy in music creation.
+
+# Usage
+1. Execute `shapeTrainer.java` to train gesture recognition model, including `S-S`, `W-W`, `E-E`, `SW-SW`, `N-N`, `W-S`, and `E-S`.
+2. Once training is complete, you can start the music notation editor.
