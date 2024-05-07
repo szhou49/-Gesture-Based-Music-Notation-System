@@ -3,7 +3,7 @@ package gesture.based.music.notation.system.reactions;
 import gesture.based.music.notation.system.music.I;
 import java.awt.*;
 
-public abstract class Mass extends Reaction.List implements gesture.based.music.notation.system.music.I.Show{
+public abstract class Mass extends Reaction.List implements I.Show{
 
     public Layer layer;
     public static int massID = 1;

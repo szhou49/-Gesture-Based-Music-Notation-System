@@ -32,7 +32,7 @@ public class Head extends Mass implements Comparable<Head>{
             @Override
             public int bid(Gesture g) {
                 int x = g.vs.xM(), y1 = g.vs.yL(), y2 = g.vs.yH();
-                int w = Head.this.w(), hY = Head.this.y();
+                int w = Head.this.w();
                 if (y1 > y || y2 < y) {return UC.NoBid;}
                 int hL = Head.this.time.x, hR = hL + w;
                 if (x < hL - 2*w || x > hR + 2*w) {return UC.NoBid;}
