@@ -12,4 +12,4 @@ This innovative system utilizes a simple graphical user interface (GUI) to inter
 
 # Usage
 1. Execute `shapeTrainer.java` to train gesture recognition model, including `S-S`, `W-W`, `E-E`, `SW-SW`, `N-N`, `W-S`, and `E-S`.
-2. Once training is complete, you can start the music notation editor.
+2. Once you complete training, you can start the music notation editor by executing `App.java`.
