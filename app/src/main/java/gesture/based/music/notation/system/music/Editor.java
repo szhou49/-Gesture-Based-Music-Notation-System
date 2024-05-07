@@ -69,7 +69,7 @@ public class Editor extends Window {
         repaint();
     }
 
-    public static void main(String[] args) {
+    public static void main() {
         PANEL = new Editor();
         Window.launch();
     }
