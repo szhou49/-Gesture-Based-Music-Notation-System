@@ -1,1 +1,1 @@
-# -Gesture-Based-Music-Notation-System
+# Gesture-Based-Music-Notation-System
