@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("project.App")
+    mainClass.set("gesture.based.music.notation.system.App")
 }
 
 tasks.named<Test>("test") {

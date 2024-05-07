@@ -7,5 +7,5 @@
  * in the user manual at https://docs.gradle.org/8.0.2/userguide/multi_project_builds.html
  */
 
-rootProject.name = "project"
+rootProject.name = "Gesture-Based-Music-Notation-System"
 include("app")
