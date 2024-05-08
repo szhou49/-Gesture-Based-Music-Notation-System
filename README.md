@@ -1,4 +1,4 @@
-# Gesture-Based-Music-Notation-System
+# Gesture Based Music Notation System
 ![Image](img.png)
 Welcome to the Gesture-based Music Notation System, a user-friendly interface that enables users to input musical notation through gesture recognition.
 
